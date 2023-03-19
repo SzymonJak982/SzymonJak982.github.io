@@ -1,0 +1,6 @@
+x = 4
+y = 5
+
+print ("mój wynik to, x**2, y**2, end = 'xxxxx'\n")
+
+
